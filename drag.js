@@ -5,7 +5,7 @@ function drag(id) {
     var disX = 0;
     var disY = 0;
 
-反对发射点
+反对发射点    
     obj.onmousedown = function () {
 
     } 
