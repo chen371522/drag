@@ -9,4 +9,4 @@ function drag(id) {
     obj.onmousedown = function () {
 
     } 
-}
+}     ´ó·ù¶È
