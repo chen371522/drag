@@ -6,7 +6,7 @@ function drag(id) {
     var disY = 0;
 
 反对发射点    
-    obj.onmousedown = function () {
+   
 
     } 
 }     大幅度
