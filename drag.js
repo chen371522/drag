@@ -6,7 +6,7 @@ function drag(id) {
     var disY = 0;
 
 反对发射点    
-   
+   hh'u
 
     } 
 }     大幅度
